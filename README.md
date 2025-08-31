@@ -12,11 +12,11 @@ This project builds a comprehensive dataset of New York Knicks games from the st
 - **Interactive visuals:** Build dashboards with Plotly or Streamlit to showcase the Garden's impact.
 
 ## 🛠️ Tools Used
-- **Python 3.11** – scripting and analysis
+- **Python** – scripting and analysis
 - **balldontlie API** – open NBA game data
 - **pandas** – data wrangling (install locally)
 - **SQLite / SQL** – data storage and queries
 - **Jupyter Notebook** – iterative exploration
-- **Plotly / Matplotlib** – visualizations
+- **Matplotlib** – visualizations
 - **scikit-learn** – logistic regression & feature importance
 - **Git & GitHub** – version control and collaboration
