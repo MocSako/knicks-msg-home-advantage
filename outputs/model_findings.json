@@ -1,0 +1,15 @@
+{
+  "sample_size": 3452,
+  "train_size": 2589,
+  "test_size": 863,
+  "accuracy": 0.605,
+  "roc_auc": 0.621,
+  "coefficients": {
+    "rest_days": 0.031,
+    "opp_strength": -0.3475,
+    "season": -0.031,
+    "is_home": 0.774
+  },
+  "home_probability_lift": 0.186,
+  "interpretation": "Positive is_home coefficient means higher win log-odds at MSG after controlling for rest days, opponent strength proxy, and season."
+}
